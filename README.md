@@ -1,1 +1,1 @@
-# sse-test-server2
+# sse-test-server
